@@ -1,4 +1,4 @@
-### Hi there, I'm Max 👋
+### Hi there, I'm Bai 👋
 I'm an Android developer.
 
 ### Languages and Tools:
